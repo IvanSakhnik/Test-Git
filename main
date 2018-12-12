@@ -8,7 +8,7 @@ function test(param1, param2){
 	
 	for i in range{
 		i++;	
-		print("Branch New");
+		print("Fixed conflict");
 	}
 
 	return 0;
