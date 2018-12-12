@@ -1,2 +1,15 @@
-Hello world!!!
-Test git commands.
+//Hello world!!!
+//Test git commands.
+
+//New text.
+
+function test(param1, param2){
+	var i = 10;
+	
+	for i in range{
+		i++;	
+	}
+
+	return 0;
+}
+
