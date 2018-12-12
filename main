@@ -8,6 +8,7 @@ function test(param1, param2){
 	
 	for i in range{
 		i++;	
+		print("Branch new2 merge error");
 	}
 
 	return 0;
